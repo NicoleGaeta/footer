@@ -1,0 +1,15 @@
+.locationicon {
+    color: black;
+}
+
+.container {
+    display: grid;
+    grid-template-rows: auto;
+}
+
+.devby {
+    font-family:'Poppins', sans-serif;
+    padding-left: 1290px;
+    padding-top: -500px;
+    color: black;
+}
